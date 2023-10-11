@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../.idea/Python.iml" filepath="$PROJECT_DIR$/../.idea/Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TEST/.idea/TEST.iml" filepath="$PROJECT_DIR$/../TEST/.idea/TEST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Thread.iml" filepath="$PROJECT_DIR$/.idea/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../other/geostar/.idea/geostar.iml" filepath="$PROJECT_DIR$/../other/geostar/.idea/geostar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../other/geostar/杰鑫_地址相似度_20200102/.idea/杰鑫_地址相似度_20200102.iml" filepath="$PROJECT_DIR$/../other/geostar/杰鑫_地址相似度_20200102/.idea/杰鑫_地址相似度_20200102.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../other/geostar/比对志愿者家庭地址跟块数据地址相似度_20191231/.idea/比对志愿者家庭地址跟块数据地址相似度_20191231.iml" filepath="$PROJECT_DIR$/../other/geostar/比对志愿者家庭地址跟块数据地址相似度_20191231/.idea/比对志愿者家庭地址跟块数据地址相似度_20191231.iml" />
+    </modules>
+  </component>
+</project>
